@@ -3,9 +3,8 @@
 source code ini hanya menggabungkan apa yang sudah ada di : <br/>
 link https://tabler.github.io/
 
-untuk contoh link yang bekerja hanya link Interface ( sebelah Home )
-setelah itu bisa di modif sendiri pakai : <bR/>
-	load->this->view() dan seterusnya
+untuk contoh link yang bekerja hanya link Interface ( sebelah Home ) setelah itu bisa di modif sendiri pakai : <bR/>
+load->this->view() dan seterusnya
 
 regards,
 
