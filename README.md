@@ -6,6 +6,6 @@ link https://tabler.github.io/
 untuk contoh link yang bekerja hanya link Interface ( sebelah Home ) setelah itu bisa di modif sendiri pakai : <bR/>
 load->this->view() dan seterusnya
 
-regards,
+happy coding !
 
-agmsoftware.id with love
+from agmsoftware.id with love
